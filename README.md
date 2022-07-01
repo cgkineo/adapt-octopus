@@ -45,5 +45,5 @@ octopus.runRecursive(options);
 The following options can be passed to the run functions:
 - **cwd**: the current working directory (used when searching and writing files)
 - **inputPath**: _required when calling `run`_ should be the path to the input schema
-- **inputId**: _required when calling `run`_ the type of the schema being converted (accepted values: `component`, `extension`, `menu`, `theme)
+- **inputId**: _required when calling `run`_ the type of the schema being converted (accepted values: `component`, `extension`, `menu`, `theme`)
 - **logger**: an instance to a logger to be used when logging status messages (must export a `log` function)
