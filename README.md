@@ -1,4 +1,4 @@
-# adapt-octopus
+# 🐙 adapt-octopus
 
 Utility for converting old Adapt schema from the non-conformant `properties.schema` style into the new conformant JSON schema format.
 
